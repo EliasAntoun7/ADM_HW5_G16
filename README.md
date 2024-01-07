@@ -19,6 +19,8 @@ Matteo Grimaldi    grimaldi.1849945@studenti.uniroma1.it
 We loaded the dataset in chunks of 1000, saving intermediate results as csv files and then merged all of them together into a final_data.csv file, to avoid the repeated memory errors when trying to implement other methods. The dataframe was then build using that final csv file and the top 10000 papers were taken to be worked with, as requested in the given. This is followed by building 2 graphs: a directed and unweighted citation graph, and a weighted and undirected collaboration graph using networkx. Finally we have included some explorative visualizations and random sample graphs.
 
 **Part 2.1**
+We used the top 10000 papers dataframe. The functions are constructed to work with the appropriate inputs.
 
-
+**CLQ**
+The task is done on AWS. Before moving to the command line, edges and betweenness centrality information of the citation graph are exportes as csv files. The screenshot of the outputs is available as well as the .sh file.
 
