@@ -7,8 +7,11 @@ To work with this file please download it and use it locally in a folder with th
 **GROUP 16 MEMBERS**
 
 Elias Antoun       antoun.2128572@studenti.uniroma1.it
+
 Simay Caliskan     simaycaliskan13@gmail.com
+
 Erika Zetu         zetu.1888659@studenti.uniroma1.it
+
 Matteo Grimaldi    grimaldi.1849945@studenti.uniroma1.it
 
 **Part 1**
