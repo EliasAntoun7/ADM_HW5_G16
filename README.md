@@ -10,7 +10,7 @@ Elias Antoun       antoun.2128572@studenti.uniroma1.it
 
 Simay Caliskan     simaycaliskan13@gmail.com
 
-Erika Zetu         zetu.1888659@studenti.uniroma1.it
+Erika Ioana Zetu         zetu.1888659@studenti.uniroma1.it
 
 Matteo Grimaldi    grimaldi.1849945@studenti.uniroma1.it
 
@@ -21,6 +21,14 @@ We loaded the dataset in chunks of 1000, saving intermediate results as csv file
 **Part 2.1**
 We used the top 10000 papers dataframe. The functions are constructed to work with the appropriate inputs.
 
+**Part 2.2**
+Frontend:
+Visualization of the required graphs using the functions in 2.1
+
 **CLQ**
 The task is done on AWS. Before moving to the command line, edges and betweenness centrality information of the citation graph are exportes as csv files. The screenshot of the outputs is available as well as the .sh file.
+
+**AQ**
+
+
 
